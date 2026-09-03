@@ -1,5 +1,5 @@
 // Hypercube — The Book of Shaders compatible
-// Gustavo A.F (Lowingx) — 2026-09-03
+// Iori (Lowingx)— 2026-09-03
 
 #ifdef GL_ES
 precision mediump float;
