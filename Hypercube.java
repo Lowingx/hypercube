@@ -1,6 +1,5 @@
 // Hypercube 4D → 3D → 2D — Java Swing (zero deps)
-// Author: Gustavo A.F (Lowingx) — 2026-09-03
-// Muse Spark v1.2 — sem Processing, só javac + java
+// Author: Iori(Lowingx) — 2026-09-03
 // Run: javac Hypercube.java && java Hypercube
 
 import javax.swing.*;
